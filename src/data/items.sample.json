@@ -1,0 +1,129 @@
+[
+  {
+    "id": "bb1",
+    "section": "BB",
+    "stem": "A mutation reduces the affinity of an enzyme for its substrate. Predict the effect on Km and Vmax.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Km increases, Vmax unchanged",
+        "correct": true
+      },
+      {
+        "id": "b",
+        "text": "Km decreases, Vmax unchanged",
+        "correct": false
+      },
+      {
+        "id": "c",
+        "text": "Km unchanged, Vmax decreases",
+        "correct": false
+      },
+      {
+        "id": "d",
+        "text": "Km increases, Vmax decreases",
+        "correct": false
+      }
+    ],
+    "explanation": "Affinity down means a higher Km. Vmax is catalytic rate at saturation and may remain the same if turnover not affected.",
+    "tags": [
+      "Foundational 1",
+      "Enzymes"
+    ]
+  },
+  {
+    "id": "cp1",
+    "section": "CP",
+    "stem": "A resistor with R=10 \u03a9 carries I=2 A. What is the power dissipated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "10 W",
+        "correct": false
+      },
+      {
+        "id": "b",
+        "text": "20 W",
+        "correct": false
+      },
+      {
+        "id": "c",
+        "text": "40 W",
+        "correct": true
+      },
+      {
+        "id": "d",
+        "text": "4 W",
+        "correct": false
+      }
+    ],
+    "explanation": "Use P = I^2 R = (2^2)*10 = 40 W.",
+    "tags": [
+      "Foundational 4",
+      "Circuits"
+    ]
+  },
+  {
+    "id": "ps1",
+    "section": "PS",
+    "stem": "A researcher tests whether a new scale measures stress. They compare it with a validated scale and find a strong positive correlation. What validity is supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Construct validity",
+        "correct": false
+      },
+      {
+        "id": "b",
+        "text": "Criterion validity",
+        "correct": true
+      },
+      {
+        "id": "c",
+        "text": "Face validity",
+        "correct": false
+      },
+      {
+        "id": "d",
+        "text": "Content validity",
+        "correct": false
+      }
+    ],
+    "explanation": "High correlation with an established measure supports criterion validity.",
+    "tags": [
+      "Foundational 7",
+      "Research methods"
+    ]
+  },
+  {
+    "id": "cars1",
+    "section": "CARS",
+    "stem": "The author most likely agrees that effective argumentation requires which of the following?\\n\\nI. Coherent structure\\nII. Consideration of counterarguments\\nIII. Use of empirical evidence",
+    "choices": [
+      {
+        "id": "a",
+        "text": "I only",
+        "correct": false
+      },
+      {
+        "id": "b",
+        "text": "I and II",
+        "correct": true
+      },
+      {
+        "id": "c",
+        "text": "II and III",
+        "correct": false
+      },
+      {
+        "id": "d",
+        "text": "I, II, and III",
+        "correct": false
+      }
+    ],
+    "explanation": "From the passage cues, structure and counterarguments are essential while empirical evidence was not required.",
+    "tags": [
+      "CARS strategy"
+    ]
+  }
+]

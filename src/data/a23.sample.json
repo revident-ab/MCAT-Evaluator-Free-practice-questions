@@ -1,0 +1,32 @@
+[
+  {
+    "mcatRange": ">517",
+    "gpaRange": ">3.79",
+    "acceptRate": 0.86
+  },
+  {
+    "mcatRange": ">517",
+    "gpaRange": "3.60-3.79",
+    "acceptRate": 0.72
+  },
+  {
+    "mcatRange": "514-517",
+    "gpaRange": ">3.79",
+    "acceptRate": 0.78
+  },
+  {
+    "mcatRange": "510-513",
+    "gpaRange": "3.60-3.79",
+    "acceptRate": 0.55
+  },
+  {
+    "mcatRange": "502-505",
+    "gpaRange": "3.00-3.19",
+    "acceptRate": 0.08
+  },
+  {
+    "mcatRange": "<486",
+    "gpaRange": "<2.00",
+    "acceptRate": 0.0
+  }
+]
